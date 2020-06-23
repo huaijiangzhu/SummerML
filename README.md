@@ -10,6 +10,13 @@ We use [Piazza](https://www.piazza.com/nyu/summer2020/ml101) for offline discuss
 - [Demo: Python Basics with Solutions](https://github.com/huaijiangzhu/SummerML/blob/master/day1/demo_python_basics.ipynb)
 
 ### Day 2: Linear Regression
+- [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day2/lecture_notes.pdf)
+- [Demo: Numpy Vectors and Matrices](https://github.com/huaijiangzhu/SummerML/blob/master/day2/demo_vectors_matrices.ipynb)
+- [Demo: Matplotlib Plotting](https://github.com/huaijiangzhu/SummerML/blob/master/day2/demo_plot.ipynb)
+- [Lab: Visualizing Icebreaker Dataset](https://github.com/huaijiangzhu/SummerML/blob/master/day2/lab_icebreaker.ipynb)
+- [Demo: Boston Housing Dataset: 1D Feature](https://github.com/huaijiangzhu/SummerML/blob/master/day2/demo_boston_housing_1d.ipynb)
+- [Demo: Boston Housing Dataset: Multilinear Regression](https://github.com/huaijiangzhu/SummerML/blob/master/day2/demo_multilinear.ipynb)
+
 ### Day 3: Overfitting and Generalization
 ### Day 4: Classification and Logistic Regression
 ### Day 5: Mini Project
