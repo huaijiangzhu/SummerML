@@ -19,6 +19,8 @@ We use [Piazza](https://www.piazza.com/nyu/summer2020/ml101) for offline discuss
 
 
 ### Day 3: Overfitting and Generalization
+- [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day3/lecture_notes.pdf)
+
 ### Day 4: Classification and Logistic Regression
 ### Day 5: Mini Project
 ### Day 6: Neural Networks
