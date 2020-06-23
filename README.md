@@ -1,6 +1,8 @@
 # Summer ML
 NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last year's course by Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam.
 
+We use [Piazza](https://www.piazza.com/nyu/summer2020/ml101) for offline discussion!
+
 ## Topic Schedule:
 ### Day 1: Introduction to ML
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day1/lecture_notes.pdf)
