@@ -5,9 +5,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 1: Introduction to ML
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day1/lecture_notes.pdf)
 - [Demo: Python Basics](https://github.com/huaijiangzhu/SummerML/blob/master/day1/demo_python_basics.ipynb)
-- [Demo: Vectors and Matrices](https://github.com/huaijiangzhu/SummerML/blob/master/day1/demo_vectors_matrices.ipynb)
-- [Demo: Matplotlib Plotting](https://github.com/huaijiangzhu/SummerML/blob/master/day1/demo_plot.ipynb)
-- [Lab: Visualizing Icebreaker Data](https://github.com/huaijiangzhu/SummerML/blob/master/day1/lab_icebreaker.ipynb)
 
 ### Day 2: Linear Regression
 ### Day 3: Overfitting and Generalization
