@@ -20,6 +20,12 @@ We use [Piazza](https://www.piazza.com/nyu/summer2020/ml101) for offline discuss
 
 ### Day 3: Overfitting and Generalization
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day3/lecture_notes.pdf)
+- [Demo: Boston Housing Dataset: Single Variable](https://github.com/huaijiangzhu/SummerML/blob/master/day3/demo_boston_housing_one_variable.ipynb)
+- [Demo: Boston Housing Dataset: Multilinear Regression](https://github.com/huaijiangzhu/SummerML/blob/master/day3/demo_boston_housing_one_variable.ipynb)
+- [Demo: Polynomial Fitting](https://github.com/huaijiangzhu/SummerML/blob/master/day3/demo_fit_polynomial.ipynb)
+- [Demo: Overfitting and Regularization](https://github.com/huaijiangzhu/SummerML/blob/master/day3/demo_overfitting_regularization.ipynb)
+- [Lab: Robot Arm Multilinear Regression](https://github.com/huaijiangzhu/SummerML/blob/master/day3/lab_robot_arm.ipynb)
+
 
 ### Day 4: Classification and Logistic Regression
 ### Day 5: Mini Project
