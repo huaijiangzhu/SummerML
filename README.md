@@ -32,6 +32,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day4/lecture_notes.pdf)
 - [Demo: Polynomial Fitting](https://github.com/huaijiangzhu/SummerML/blob/master/day4/demo_fit_polynomial.ipynb)
 - [Demo: Overfitting and Regularization](https://github.com/huaijiangzhu/SummerML/blob/master/day4/demo_overfitting_regularization.ipynb)
+- [Demo: Gradient Descent](https://github.com/huaijiangzhu/SummerML/blob/master/day4/demo_gd_linreg.ipynb)
 - [Demo: Breast Cancer](https://github.com/huaijiangzhu/SummerML/blob/master/day4/demo_breast_cancer.ipynb)
 - [Demo: Iris](https://github.com/huaijiangzhu/SummerML/blob/master/day4/demo_iris.ipynb)
 
