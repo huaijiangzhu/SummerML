@@ -37,6 +37,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ### Day 5: Linear Classification and Mini Project
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day5/lecture_notes.pdf)
+- [Annotated Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day5/lecture_notes_annotated.pdf)
 - [Demo: Breast Cancer Diagnosis](https://github.com/huaijiangzhu/SummerML/blob/master/day5/demo_breast_cancer.ipynb)
 - [Project: Fish Weight Prediction](https://github.com/huaijiangzhu/SummerML/blob/master/day5/fish_market.ipynb)
 
