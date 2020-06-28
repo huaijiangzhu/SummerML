@@ -43,6 +43,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 6: Neural Networks
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lecture_notes.pdf)
 - [Demo: Iris](https://github.com/huaijiangzhu/SummerML/blob/master/day6/demo_iris.ipynb)
+- [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lab_mlp_fish_market.ipynb)
 
 ### Day 7: Convolutional Neural Networks
 ### Day 8: Deep Generative Models
