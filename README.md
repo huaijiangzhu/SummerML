@@ -39,6 +39,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day5/lecture_notes.pdf)
 - [Annotated Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day5/lecture_notes_annotated.pdf)
 - [Project: Fish Weight Prediction](https://github.com/huaijiangzhu/SummerML/blob/master/day5/fish_market.ipynb)
+- [Alternative Solutions to the Project](https://github.com/huaijiangzhu/SummerML/blob/master/day5/fish_market_alternatives.ipynb)
 
 ### Day 6: Neural Networks
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lecture_notes.pdf)
