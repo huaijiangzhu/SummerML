@@ -43,10 +43,14 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ### Day 6: Neural Networks
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lecture_notes.pdf)
+- [Annotated Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lecture_notes_annotated.pdf)
 - [Demo: Iris](https://github.com/huaijiangzhu/SummerML/blob/master/day6/demo_iris.ipynb)
 - [Demo: Pytorch Basics](https://github.com/huaijiangzhu/SummerML/blob/master/day6/demo_pytorch_basics.ipynb)
-- [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day6/lab_mlp_fish_market.ipynb)
+
 
 ### Day 7: Convolutional Neural Networks
-### Day 8: Deep Generative Models
+- [Readings: Course Notes from Stanford CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day7/lab_mlp_fish_market.ipynb)
+
+### Day 8: Convolutional Neural Networks and Applications
 ### Day 9/10: Final Project and Social Impact of ML
