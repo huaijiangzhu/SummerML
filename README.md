@@ -50,6 +50,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ### Day 7: Convolutional Neural Networks
 - [Readings: Course Notes from Stanford CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Demo: Pytorch Basics](https://github.com/huaijiangzhu/SummerML/blob/master/day7/demo_pytorch_basics.ipynb)
 - [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day7/lab_mlp_fish_market.ipynb)
 
 ### Day 8: Convolutional Neural Networks and Applications
