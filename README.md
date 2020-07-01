@@ -55,6 +55,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 8: Convolutional Neural Networks and Applications
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day8/lecture_notes.pdf)
 - [Demo: Fashion MNIST](https://github.com/huaijiangzhu/SummerML/blob/master/day8/demo_fashion_mnist.ipynb)
-- [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day8/lab_cats_vs_dogs.ipynb)
+- [Lab: Cats vs. Dogs](https://github.com/huaijiangzhu/SummerML/blob/master/day8/lab_cats_vs_dogs.ipynb)
 
 ### Day 9/10: Final Project and Social Impact of ML
