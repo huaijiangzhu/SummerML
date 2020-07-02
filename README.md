@@ -47,12 +47,12 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Iris](https://github.com/huaijiangzhu/SummerML/blob/master/day6/demo_iris.ipynb)
 
 
-### Day 7: Convolutional Neural Networks
+### Day 7: PyTorch Basics
 - [Readings: Course Notes from Stanford CS231n](https://cs231n.github.io/convolutional-networks/)
 - [Demo: Pytorch Basics](https://github.com/huaijiangzhu/SummerML/blob/master/day7/demo_pytorch_basics.ipynb)
 - [Lab: Solve the Mini-Project with MLPs](https://github.com/huaijiangzhu/SummerML/blob/master/day7/lab_mlp_fish_market.ipynb)
 
-### Day 8: Convolutional Neural Networks and Applications
+### Day 8: Convolutional Neural Networks
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day8/lecture_notes.pdf)
 - [Annotated Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day8/lecture_notes_annotated.pdf)
 - [Demo: Fashion MNIST](https://github.com/huaijiangzhu/SummerML/blob/master/day8/demo_fashion_mnist.ipynb)
@@ -62,4 +62,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day9/lecture_notes.pdf)
 - [Project: CIFAR10 Classification](https://github.com/huaijiangzhu/SummerML/blob/master/day9/cifar10.ipynb)
 - [Project: Car Classification](https://github.com/huaijiangzhu/SummerML/blob/master/day9/car.ipynb)
+
+### Day 10: Deep Learning Applications and its Social Impact
 
