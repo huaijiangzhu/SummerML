@@ -61,4 +61,5 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 9: Final Project
 - [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day9/lecture_notes.pdf)
 - [Project: CIFAR10 Challenge](https://github.com/huaijiangzhu/SummerML/blob/master/day9/cifar10_challenge.ipynb)
+- [Project: Car Classification](https://github.com/huaijiangzhu/SummerML/blob/master/day9/car_dataset.ipynb)
 
