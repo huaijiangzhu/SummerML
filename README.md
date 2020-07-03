@@ -64,4 +64,5 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Project: Car Classification](https://github.com/huaijiangzhu/SummerML/blob/master/day9/car.ipynb)
 
 ### Day 10: Deep Learning Applications and its Social Impact
-
+- [Lecture Notes](https://github.com/huaijiangzhu/SummerML/blob/master/day10/lecture_notes.pdf)
+- [Demo: Generative Adversarial Networks](https://github.com/huaijiangzhu/SummerML/blob/master/day10/demo_gan.ipynb)
