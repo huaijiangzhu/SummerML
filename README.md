@@ -1,5 +1,5 @@
 # Summer ML
-NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last year's course by Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam.
+This is the course website for NYU Tandon's 2020 Summer Program for Machine Learning. Materials are adapted from last year's course by Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam.
 
 ## Logistics:
 - We use [Piazza](https://www.piazza.com/nyu/summer2020/ml101) for offline discussion!
